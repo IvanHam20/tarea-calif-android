@@ -7,9 +7,10 @@
     tools:context=".AprobadoActivity">
 
     <TextView
+        android:id="@+id/tvAprobado"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Felicidades Aprobaste la materia con ---"
+        android:text=""
         android:textAlignment="center"
         android:textColor="#009688"
         android:textSize="32sp"
